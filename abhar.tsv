@@ -1,4 +1,5 @@
-false	{REPOS}/cadhan.com/tastail.html	tastail/index.html	Lorem Ipsum	-
+false	{REPOS}/cadhan.com/tastail.html	index.html	Cadhan Aonair, LLC	-
+#false	{REPOS}/cadhan.com/baile.html	index.html	Cadhan Aonair, LLC	-
 0	{REPOS}/gaelspell/index.html	gaelspell/index.html	GaelSpell: Baile	-
 0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu.html	GaelSpell: Rannpháirtíocht	-
 0	{REPOS}/gaelspell/sios.html	gaelspell/sios.html	GaelSpell: Íoslódáil	-
@@ -36,6 +37,14 @@ false	{REPOS}/cadhan.com/tastail.html	tastail/index.html	Lorem Ipsum	-
 6	{REPOS}/droichead/dist/T.html	droichead/T.html	Droichead DIL: T	droichead/droichead.css
 6	{REPOS}/droichead/dist/U.html	droichead/U.html	Droichead DIL: U	droichead/droichead.css
 6	{REPOS}/droichead/dist/V.html	droichead/V.html	Droichead DIL: V	droichead/droichead.css
+# 7 Twitter
 8	{GAEILGE}/cuisle/index.html	cuisle/index.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
 8	{GAEILGE}/cuisle/cartlann.html	cuisle/cartlann.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
+9	{REPOS}/fleiscin/index.html	fleiscin/index.html	Fleiscíniú: Baile	-
+9	{REPOS}/fleiscin/usaid.html	fleiscin/usaid.html	Fleiscíniú: Íoslódáil	-
+9	{REPOS}/fleiscin/sonrai.html	fleiscin/sonrai.html	Fleiscíniú: Mionsonraí	-
+9	{REPOS}/fleiscin/mile.html	fleiscin/mile.html	Fleiscíniú: Barr 1000	-
+# 10 Ríomhacadamh
+# 11 Chuala.me
+# 12 == Acmhainní Eile
 12	{REPOS}/aimsigh/eolas-nua.html	aimsigh/index.html	Aimsigh.com: About	-
