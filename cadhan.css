@@ -1,0 +1,117 @@
+body {
+/*	background-color: #f0fff0; */  /* super pale green */
+/*	background-color: #f5f5e8; /* /* parchment */
+/*	background-color: #f4f4ff; */  /* super pale blue */
+	background-color: #ffffff;  /* white */
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav a[href^="http://"]:after, 
+a[href^="https://"]:after {
+  content: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
+  margin: 0 0 0 5px;
+}
+
+:focus, :active {
+  outline: 0;
+}
+
+.top {
+/* these lines clear the float before starting nav and content */
+	overflow: auto;
+	width: 100%;
+}
+
+.home {
+	float: left;
+	width: 24%;
+}
+
+.logo {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 128px;
+	font-family: 'Libre Barcode 128 Text', cursive;
+	font-size: 300%;
+	font-size: 4vw;
+	white-space: nowrap;
+}
+
+.coverpic {
+	float: left;
+	width: 74%;
+}
+
+.coverpic img {
+	border-radius: 8px;
+}
+
+.nav {
+	width: 24%;
+	float: left;
+}
+
+#accordion {
+  width: 80%;
+  margin: 0px auto;  /* no top margin + centered L/R */
+ /* font-family: 'Cantarell', sans-serif; */
+  font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	font-size: 1.5vw;
+}
+
+#accordion .ui-accordion-header {
+  background-color: #f2f2f2;
+  margin: 0px;  /* removes default top/bottom margins from the h3 */
+  background-image: linear-gradient(to bottom,  #f2f2f2 0%,#e0e0e0 100%);
+}
+
+#accordion .ui-accordion-header-active {
+  background: #a0a0a0 !important;
+  margin: 0px;  /* removes default top/bottom margins from the h3 */
+  background-image: linear-gradient(to bottom,  #a0a0a0 0%,#606060 100%) !important;
+}
+
+#accordion .ui-accordion-content {
+  background-color: #f3f3f3;
+  font-size: 85%;
+}
+
+#accordion .ui-accordion-content > * {
+  margin: 0;
+  padding: 20px;
+}
+
+#accordion .ui-accordion-content ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#accordion .ui-accordion-content li {
+	margin-bottom: 3px;
+}
+
+#accordion .ui-accordion-content li a:hover {
+  background-color: #d0d0d0;
+} 
+
+.content {
+	width: 74%;
+	float: left;
+	font-family: 'Balthazar', serif;
+	font-size: 120%;
+}
+
+.content p {
+	width: 90%;
+}
+
+b.gramadoir {
+     color: red;
+}
