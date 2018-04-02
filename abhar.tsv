@@ -1,60 +1,65 @@
-false	{REPOS}/cadhan.com/tastail.html	index.html	Cadhan Aonair, LLC	-
-#false	{REPOS}/cadhan.com/baile.html	index.html	Cadhan Aonair, LLC	-
-0	{REPOS}/gaelspell/index.html	gaelspell/index.html	GaelSpell: Baile	-
-0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu.html	GaelSpell: Rannpháirtíocht	-
-0	{REPOS}/gaelspell/sios.html	gaelspell/sios.html	GaelSpell: Íoslódáil	-
-0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai.html	GaelSpell: Stair	-
-1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Fabhtanna	-
-1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
-1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	-
-1	{REPOS}/gramadoir/index.html	gramadoir/index.html	An Gramadóir: Baile	-
-1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla.html	An Gramadóir: Samplaí	-
-1	{REPOS}/gramadoir/sios.html	gramadoir/sios.html	An Gramadóir: Íoslódáil	-
-1	{REPOS}/gramadoir/stair.html	gramadoir/stair.html	An Gramadóir: Stair	-
-2	{REPOS}/wordnet-gaeilge/index.html	lsg/index.html	LSG: Baile	-
-2	{REPOS}/wordnet-gaeilge/details.html	lsg/details.html	LSG: Mionsonraí	-
-2	{REPOS}/wordnet-gaeilge/thanks.html	lsg/thanks.html	LSG: Buíochas	-
+# ga/en	menu#	source	target	title	extra-css
+ga	false	{REPOS}/cadhan.com/baile.html	index.html	Cadhan Aonair, LLC	-
+en	false	{REPOS}/cadhan.com/baile-en.html	index-en.html	Cadhan Aonair, LLC	-
+ga	0	{REPOS}/gaelspell/index.html	gaelspell/index.html	GaelSpell: Baile	-
+en	0	{REPOS}/gaelspell/index.html	gaelspell/index-en.html	GaelSpell: Home	-
+ga	0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu.html	GaelSpell: Rannpháirtíocht	-
+en	0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu-en.html	GaelSpell: Contributing	-
+ga	0	{REPOS}/gaelspell/sios.html	gaelspell/sios.html	GaelSpell: Íoslódáil	-
+en	0	{REPOS}/gaelspell/sios.html	gaelspell/sios-en.html	GaelSpell: Download	-
+ga	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai.html	GaelSpell: Stair	-
+en	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai-en.html	GaelSpell: History	-
+ga	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Fabhtanna	-
+ga	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
+ga	1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	-
+ga	1	{REPOS}/gramadoir/index.html	gramadoir/index.html	An Gramadóir: Baile	-
+ga	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla.html	An Gramadóir: Samplaí	-
+ga	1	{REPOS}/gramadoir/sios.html	gramadoir/sios.html	An Gramadóir: Íoslódáil	-
+ga	1	{REPOS}/gramadoir/stair.html	gramadoir/stair.html	An Gramadóir: Stair	-
+ga	2	{REPOS}/wordnet-gaeilge/index.html	lsg/index.html	LSG: Baile	-
+ga	2	{REPOS}/wordnet-gaeilge/details.html	lsg/details.html	LSG: Mionsonraí	-
+ga	2	{REPOS}/wordnet-gaeilge/thanks.html	lsg/thanks.html	LSG: Buíochas	-
 # 3 = Caighdeánaitheoir
-# 4 = Gàidhlig-Gaeilge
-# 5 = Gaelg-Gaeilge
-6	{REPOS}/droichead/brollach.html	droichead/index.html	Droichead DIL: Brollach	droichead/droichead.css
-6	{REPOS}/droichead/dist/A.html	droichead/A.html	Droichead DIL: A	droichead/droichead.css
-6	{REPOS}/droichead/dist/B.html	droichead/B.html	Droichead DIL: B	droichead/droichead.css
-6	{REPOS}/droichead/dist/C.html	droichead/C.html	Droichead DIL: C	droichead/droichead.css
-6	{REPOS}/droichead/dist/D.html	droichead/D.html	Droichead DIL: D	droichead/droichead.css
-6	{REPOS}/droichead/dist/E.html	droichead/E.html	Droichead DIL: E	droichead/droichead.css
-6	{REPOS}/droichead/dist/F.html	droichead/F.html	Droichead DIL: F	droichead/droichead.css
-6	{REPOS}/droichead/dist/G.html	droichead/G.html	Droichead DIL: G	droichead/droichead.css
-6	{REPOS}/droichead/dist/H.html	droichead/H.html	Droichead DIL: H	droichead/droichead.css
-6	{REPOS}/droichead/dist/I.html	droichead/I.html	Droichead DIL: I	droichead/droichead.css
-6	{REPOS}/droichead/dist/L.html	droichead/L.html	Droichead DIL: L	droichead/droichead.css
-6	{REPOS}/droichead/dist/M.html	droichead/M.html	Droichead DIL: M	droichead/droichead.css
-6	{REPOS}/droichead/dist/N.html	droichead/N.html	Droichead DIL: N	droichead/droichead.css
-6	{REPOS}/droichead/dist/O.html	droichead/O.html	Droichead DIL: O	droichead/droichead.css
-6	{REPOS}/droichead/dist/P.html	droichead/P.html	Droichead DIL: P	droichead/droichead.css
-6	{REPOS}/droichead/dist/R.html	droichead/R.html	Droichead DIL: R	droichead/droichead.css
-6	{REPOS}/droichead/dist/S.html	droichead/S.html	Droichead DIL: S	droichead/droichead.css
-6	{REPOS}/droichead/dist/T.html	droichead/T.html	Droichead DIL: T	droichead/droichead.css
-6	{REPOS}/droichead/dist/U.html	droichead/U.html	Droichead DIL: U	droichead/droichead.css
-6	{REPOS}/droichead/dist/V.html	droichead/V.html	Droichead DIL: V	droichead/droichead.css
+ga	4	{GAEILGE}/crubadan/twitter/intergaelic/gd2ga.html	gd2ga/index.html	Tweetanna i nGaeilge na hAlban	gd2ga/tweet.css
+ga	5	{GAEILGE}/crubadan/twitter/intergaelic/gv2ga.html	gv2ga/index.html	Tweetanna i Manainnis	gv2ga/tweet.css
+ga	6	{REPOS}/droichead/brollach.html	droichead/index.html	Droichead DIL: Brollach	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/A.html	droichead/A.html	Droichead DIL: A	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/B.html	droichead/B.html	Droichead DIL: B	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/C.html	droichead/C.html	Droichead DIL: C	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/D.html	droichead/D.html	Droichead DIL: D	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/E.html	droichead/E.html	Droichead DIL: E	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/F.html	droichead/F.html	Droichead DIL: F	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/G.html	droichead/G.html	Droichead DIL: G	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/H.html	droichead/H.html	Droichead DIL: H	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/I.html	droichead/I.html	Droichead DIL: I	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/L.html	droichead/L.html	Droichead DIL: L	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/M.html	droichead/M.html	Droichead DIL: M	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/N.html	droichead/N.html	Droichead DIL: N	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/O.html	droichead/O.html	Droichead DIL: O	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/P.html	droichead/P.html	Droichead DIL: P	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/R.html	droichead/R.html	Droichead DIL: R	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/S.html	droichead/S.html	Droichead DIL: S	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/T.html	droichead/T.html	Droichead DIL: T	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/U.html	droichead/U.html	Droichead DIL: U	droichead/droichead.css
+ga	6	{REPOS}/droichead/dist/V.html	droichead/V.html	Droichead DIL: V	droichead/droichead.css
 # 7 Twitter
-8	{GAEILGE}/cuisle/index.html	cuisle/index.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
-8	{GAEILGE}/cuisle/cartlann.html	cuisle/cartlann.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
-9	{REPOS}/fleiscin/index.html	fleiscin/index.html	Fleiscíniú: Baile	-
-9	{REPOS}/fleiscin/usaid.html	fleiscin/usaid.html	Fleiscíniú: Íoslódáil	-
-9	{REPOS}/fleiscin/sonrai.html	fleiscin/sonrai.html	Fleiscíniú: Mionsonraí	-
-9	{REPOS}/fleiscin/mile.html	fleiscin/mile.html	Fleiscíniú: Barr 1000	-
+ga	8	{GAEILGE}/cuisle/index.html	cuisle/index.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
+ga	8	{GAEILGE}/cuisle/cartlann.html	cuisle/cartlann.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
+ga	9	{REPOS}/fleiscin/index.html	fleiscin/index.html	Fleiscíniú: Baile	-
+ga	9	{REPOS}/fleiscin/usaid.html	fleiscin/usaid.html	Fleiscíniú: Íoslódáil	-
+ga	9	{REPOS}/fleiscin/sonrai.html	fleiscin/sonrai.html	Fleiscíniú: Mionsonraí	-
+ga	9	{REPOS}/fleiscin/mile.html	fleiscin/mile.html	Fleiscíniú: Barr 1000	-
 # 10 Ríomhacadamh
 # 11 Chuala.me
 # 12 == Acmhainní Eile
-12	{REPOS}/aimsigh/eolas-nua.html	aimsigh/index.html	Aimsigh.com: About	-
-12	{GAEILGE}/amhran/index.html	amhran/index.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x1.html	amhran/x1.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x2.html	amhran/x2.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x3.html	amhran/x3.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x4.html	amhran/x4.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x5.html	amhran/x5.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x6.html	amhran/x6.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x7.html	amhran/x7.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x8.html	amhran/x8.html	Amhrán an Ghréasáin	amhran/amhran.css
-12	{GAEILGE}/amhran/x9.html	amhran/x9.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{REPOS}/aimsigh/eolas-nua.html	aimsigh/index.html	Aimsigh.com: About	-
+ga	12	{GAEILGE}/amhran/index.html	amhran/index.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x1.html	amhran/x1.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x2.html	amhran/x2.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x3.html	amhran/x3.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x4.html	amhran/x4.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x5.html	amhran/x5.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x6.html	amhran/x6.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x7.html	amhran/x7.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x8.html	amhran/x8.html	Amhrán an Ghréasáin	amhran/amhran.css
+ga	12	{GAEILGE}/amhran/x9.html	amhran/x9.html	Amhrán an Ghréasáin	amhran/amhran.css
