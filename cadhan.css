@@ -120,6 +120,13 @@ div.content a[href^="http://"]:after, div.content a[href^="https://"]:after {
 	font-size: 90%;
 }
 
+.content ol {
+	width: 90%;
+}
+.content ul{
+	width: 90%;
+}
+
 .content p {
 	width: 90%;
 }
