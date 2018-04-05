@@ -2,27 +2,27 @@
 ga	false	{REPOS}/cadhan.com/baile.html	index.html	Cadhan Aonair, LLC	-
 en	false	{REPOS}/cadhan.com/baile-en.html	index-en.html	Cadhan Aonair, LLC	-
 ga	0	{REPOS}/gaelspell/index.html	gaelspell/index.html	GaelSpell: Baile	-
-en	0	{REPOS}/gaelspell/index.html	gaelspell/index-en.html	GaelSpell: Home	-
+en	0	{REPOS}/gaelspell/index-en.html	gaelspell/index-en.html	GaelSpell: Home	-
+ga	0	{REPOS}/gaelspell/sios.html	gaelspell/sios.html	GaelSpell: Íoslódáil	-
+en	0	{REPOS}/gaelspell/sios-en.html	gaelspell/sios-en.html	GaelSpell: Download	-
 ga	0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu.html	GaelSpell: Rannpháirtíocht	-
 en	0	{REPOS}/gaelspell/cuidiu.html	gaelspell/cuidiu-en.html	GaelSpell: Contributing	-
-ga	0	{REPOS}/gaelspell/sios.html	gaelspell/sios.html	GaelSpell: Íoslódáil	-
-en	0	{REPOS}/gaelspell/sios.html	gaelspell/sios-en.html	GaelSpell: Download	-
 ga	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai.html	GaelSpell: Stair	-
 en	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai-en.html	GaelSpell: History	-
-ga	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Fabhtanna	-
-en	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Bugs	-
-ga	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
-en	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu-en.html	An Gramadóir: Contributing	-
-ga	1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	-
-en	1	{REPOS}/gramadoir/form.html	gramadoir/foirm-en.html	An Gramadóir: Web Interface	-
 ga	1	{REPOS}/gramadoir/index.html	gramadoir/index.html	An Gramadóir: Baile	-
 en	1	{REPOS}/gramadoir/index.html	gramadoir/index-en.html	An Gramadóir: Home	-
-ga	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla.html	An Gramadóir: Samplaí	-
-en	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla-en.html	An Gramadóir: Sampler	-
+ga	1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	-
+en	1	{REPOS}/gramadoir/form.html	gramadoir/foirm-en.html	An Gramadóir: Web Interface	-
 ga	1	{REPOS}/gramadoir/sios.html	gramadoir/sios.html	An Gramadóir: Íoslódáil	-
 en	1	{REPOS}/gramadoir/sios.html	gramadoir/sios-en.html	An Gramadóir: Download	-
+ga	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
+en	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu-en.html	An Gramadóir: Contributing	-
 ga	1	{REPOS}/gramadoir/stair.html	gramadoir/stair.html	An Gramadóir: Stair	-
 en	1	{REPOS}/gramadoir/stair.html	gramadoir/stair-en.html	An Gramadóir: History	-
+ga	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla.html	An Gramadóir: Samplaí	-
+en	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla-en.html	An Gramadóir: Sampler	-
+ga	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Fabhtanna	-
+en	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Bugs	-
 ga	2	{REPOS}/wordnet-gaeilge/index.html	lsg/index.html	LSG: Baile	-
 en	2	{REPOS}/wordnet-gaeilge/index-en.html	lsg/index-en.html	LSG: Home	-
 ga	2	{REPOS}/wordnet-gaeilge/details.html	lsg/details.html	LSG: Mionsonraí	-
