@@ -1,6 +1,7 @@
 GAEILGE=${HOME}/gaeilge
 REPOS=${HOME}/seal
 ROOTDIR=${HOME}/public_html
+TMPFILE=`mktemp`
 cat abhar.tsv | egrep -v '^#' | sed "s@{GAEILGE}@${GAEILGE}@g; s@{REPOS}@${REPOS}@g" |
 while read x
 do
@@ -10,10 +11,16 @@ do
 	TARGET=`echo "${x}" | cut -f 4`
 	TITLE=`echo "${x}" | cut -f 5`
 	CSS=`echo "${x}" | cut -f 6 | sed 's@\/@\\\/@g'`
+	cp -f "${SOURCE}" "${TMPFILE}"
 	if [ "${TEANGA}" = "en" ]
 	then
 		NAV="nav-en.html"
 		AISTRIUCHAN=`echo "${TARGET}" | sed 's/-en\.html$/.html/'`
+		# special case for Amhrán an Ghréasáin; ensure English nav
+		if echo "${TARGET}" | egrep '^amhran/' > /dev/null
+		then
+			cat "${SOURCE}" | sed 's/\.html/-en.html/' > ${TMPFILE}
+		fi
 	else
 		NAV="nav.html"
 		AISTRIUCHAN=`echo "${TARGET}" | sed 's/\.html$/-en.html/'`
@@ -22,7 +29,7 @@ do
 	then
 		echo "Error: source file ${SOURCE} not found..."
 	else
-		cat "${NAV}" | sed "s@AISTRIUCHAN@/${AISTRIUCHAN}@" | sed "s/active: false/active: ${ACTIVE}/" | sed "/^<div class=.content.>/r ${SOURCE}" | sed "/^  <title>/s/.*/<title>${TITLE}<\/title>/" > ${ROOTDIR}/${TARGET}
+		cat "${NAV}" | sed "s@AISTRIUCHAN@/${AISTRIUCHAN}@" | sed "s/active: false/active: ${ACTIVE}/" | sed "/^<div class=.content.>/r ${TMPFILE}" | sed "/^  <title>/s/.*/<title>${TITLE}<\/title>/" > ${ROOTDIR}/${TARGET}
 		if [ ! "${CSS}" = "-" ]
 		then
 			sed -i "/<link.*cadhan.css/s/.*/&\n  <link rel=\"stylesheet\" href=\"\/${CSS}\">/" ${ROOTDIR}/${TARGET}
@@ -33,3 +40,4 @@ cp cadhan.css ${ROOTDIR}/css
 cp dunaonghusa.png ${ROOTDIR}/pic
 cp favicon.png ${ROOTDIR}/pic
 cp by-sa-80x15.png ${ROOTDIR}/pic
+rm -f $TMPFILE
