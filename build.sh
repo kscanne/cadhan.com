@@ -16,8 +16,8 @@ do
 	then
 		NAV="nav-en.html"
 		AISTRIUCHAN=`echo "${TARGET}" | sed 's/-en\.html$/.html/'`
-		# special case for Amhrán an Ghréasáin; ensure English nav
-		if echo "${TARGET}" | egrep '^amhran/' > /dev/null
+		# special case for Amhrán/Droichead; ensure English nav
+		if echo "${TARGET}" | egrep '^(amhran|droichead)/' > /dev/null
 		then
 			cat "${SOURCE}" | sed 's/\.html/-en.html/' > ${TMPFILE}
 		fi
