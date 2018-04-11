@@ -40,4 +40,5 @@ cp cadhan.css ${ROOTDIR}/css
 cp dunaonghusa.png ${ROOTDIR}/pic
 cp favicon.png ${ROOTDIR}/pic
 cp by-sa-80x15.png ${ROOTDIR}/pic
+cp Icon_External_Link.png ${ROOTDIR}/pic
 rm -f $TMPFILE
