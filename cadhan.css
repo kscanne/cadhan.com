@@ -6,19 +6,22 @@ body {
 	color: black;
 }
 
-.logo a {
-	text-decoration: none;
-	color: black;
-}
-
 div.nav a {
 	text-decoration: none;
 	color: black;
 }
 
 div.nav a[href^="http://"]:after, div.nav a[href^="https://"]:after {
-  content: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
-  margin: 0 0 0 5px;
+/*
+  content: url('/pic/Icon_External_Link.png');
+*/
+  background-image: url('/pic/Icon_External_Link.png');
+  background-size: 0.9em 0.9em; /* 12px 12px; */
+  margin: 0 0 0 0.5em;
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  content: "";
 }
 
 div.content a[href^="http://"]:after, div.content a[href^="https://"]:after {
@@ -49,11 +52,17 @@ p.centered img {
 .logo {
 	text-align: center;
 	vertical-align: middle;
-	line-height: 128px;
+/*	line-height: 128px; */
 	font-family: 'Libre Barcode 128 Text', cursive;
 	font-size: 300%;
 	font-size: 4vw;
 	white-space: nowrap;
+    margin-top: 0.8em;
+}
+
+.logo a {
+	text-decoration: none;
+	color: black;
 }
 
 .coverpic {
