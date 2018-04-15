@@ -11,8 +11,8 @@ ga	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai.html	GaelSpell: Stair	-
 en	0	{REPOS}/gaelspell/sonrai-en.html	gaelspell/sonrai-en.html	GaelSpell: History	-
 ga	1	{REPOS}/gramadoir/index.html	gramadoir/index.html	An Gramadóir: Baile	-
 en	1	{REPOS}/gramadoir/index.html	gramadoir/index-en.html	An Gramadóir: Home	-
-ga	1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	-
-en	1	{REPOS}/gramadoir/form.html	gramadoir/foirm-en.html	An Gramadóir: Web Interface	-
+ga	1	{GAEILGE}/apianna/gramadoir/client.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	gramadoir/gramadoir.css
+en	1	{GAEILGE}/apianna/gramadoir/client-en.html	gramadoir/foirm-en.html	An Gramadóir: Web Interface	gramadoir/gramadoir.css
 ga	1	{REPOS}/gramadoir/sios.html	gramadoir/sios.html	An Gramadóir: Íoslódáil	-
 en	1	{REPOS}/gramadoir/sios.html	gramadoir/sios-en.html	An Gramadóir: Download	-
 ga	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
