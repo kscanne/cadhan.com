@@ -159,6 +159,13 @@ p.centered img {
 	border: 0;
 }
 
+textarea#sourcetext {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 97%;
+}
+
 img.ardheis {
 	float: right;
 	margin: 10px;
