@@ -77,8 +77,16 @@ en	6	{REPOS}/droichead/dist/V.html	droichead/V-en.html	Droichead DIL: V	droichea
 # 7 Twitter
 ga	8	{GAEILGE}/cuisle/index.html	cuisle/index.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
 en	8	{GAEILGE}/cuisle/index-en.html	cuisle/index-en.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
-ga	8	{GAEILGE}/cuisle/cartlann.html	cuisle/cartlann.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
-en	8	{GAEILGE}/cuisle/cartlann-en.html	cuisle/cartlann-en.html	Cuisle: “Iris Don Aois Nua”	cuisle/cuisle.css
+ga	8	{GAEILGE}/gaelsceal/index.html	gaelsceal/index.html	Gaelscéal: “Ag Cothú Phobal na Gaeilge”	cuisle/cuisle.css
+en	8	{GAEILGE}/gaelsceal/index-en.html	gaelsceal/index-en.html	Gaelscéal: “Ag Cothú Phobal na Gaeilge”	cuisle/cuisle.css
+ga	8	{GAEILGE}/gaelsceal/2010-ga.html	gaelsceal/2010/index.html	Gaelscéal 2010	cuisle/cuisle.css
+en	8	{GAEILGE}/gaelsceal/2010-en.html	gaelsceal/2010/index-en.html	Gaelscéal 2010	cuisle/cuisle.css
+ga	8	{GAEILGE}/gaelsceal/2011-ga.html	gaelsceal/2011/index.html	Gaelscéal 2011	cuisle/cuisle.css
+en	8	{GAEILGE}/gaelsceal/2011-en.html	gaelsceal/2011/index-en.html	Gaelscéal 2011	cuisle/cuisle.css
+ga	8	{GAEILGE}/gaelsceal/2012-ga.html	gaelsceal/2012/index.html	Gaelscéal 2012	cuisle/cuisle.css
+en	8	{GAEILGE}/gaelsceal/2012-en.html	gaelsceal/2012/index-en.html	Gaelscéal 2012	cuisle/cuisle.css
+ga	8	{GAEILGE}/gaelsceal/2013-ga.html	gaelsceal/2013/index.html	Gaelscéal 2013	cuisle/cuisle.css
+en	8	{GAEILGE}/gaelsceal/2013-en.html	gaelsceal/2013/index-en.html	Gaelscéal 2013	cuisle/cuisle.css
 ga	9	{REPOS}/fleiscin/index.html	fleiscin/index.html	Fleiscíniú: Baile	-
 en	9	{REPOS}/fleiscin/index-en.html	fleiscin/index-en.html	Fleiscíniú: Home	-
 ga	9	{REPOS}/fleiscin/usaid.html	fleiscin/usaid.html	Fleiscíniú: Íoslódáil agus Úsáid	-
