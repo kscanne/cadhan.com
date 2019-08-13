@@ -41,4 +41,5 @@ cp dunaonghusa.png ${ROOTDIR}/pic
 cp favicon.png ${ROOTDIR}/pic
 cp by-sa-80x15.png ${ROOTDIR}/pic
 cp Icon_External_Link.png ${ROOTDIR}/pic
+sed -i '/<link.*favicon.png/s/.*/&\n  <script type="text\/javascript" src="https:\/\/www.gstatic.com\/charts\/loader.js"><\/script>/' ${ROOTDIR}/treochtai/index*.html
 rm -f $TMPFILE
