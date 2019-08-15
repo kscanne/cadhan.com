@@ -35,7 +35,9 @@ en	4	{GAEILGE}/crubadan/twitter/intergaelic/gd2ga.html	gd2ga/index-en.html	Gàid
 ga	5	{GAEILGE}/crubadan/twitter/intergaelic/gv2ga.html	gv2ga/index.html	Tweetanna i Manainnis	gv2ga/tweet.css
 en	5	{GAEILGE}/crubadan/twitter/intergaelic/gv2ga.html	gv2ga/index-en.html	Manx Twitter Stream	gv2ga/tweet.css
 ga	6	{GAEILGE}/treocht/index.html	treochtai/index.html	Treochtaí Gaeilge	treochtai/treochtai.css
-en	6	{GAEILGE}/treocht/index-en.html	treochtai/index-en.html	Treochtaí Gaeilge	treochtai/treochtai.css
+en	6	{GAEILGE}/treocht/index-en.html	treochtai/index-en.html	Irish language Trends	treochtai/treochtai.css
+ga	6	{GAEILGE}/treocht/samplai.html	treochtai/samplai.html	Treochtaí Gaeilge: Gailearaí	treochtai/treochtai.css
+en	6	{GAEILGE}/treocht/samplai-en.html	treochtai/samplai-en.html	Irish language Trends: Gallery	treochtai/treochtai.css
 ga	7	{REPOS}/droichead/brollach.html	droichead/index.html	Droichead DIL: Brollach	droichead/droichead.css
 en	7	{REPOS}/droichead/brollach-en.html	droichead/index-en.html	DIL Bridge: Preface	droichead/droichead.css
 ga	7	{REPOS}/droichead/dist/A.html	droichead/A.html	Droichead DIL: A	droichead/droichead.css
