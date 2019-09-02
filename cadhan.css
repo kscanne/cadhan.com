@@ -221,3 +221,13 @@ table.fleiscin th {
 	border: 1px solid #ddd;
 	padding: 10px;
 }
+
+@font-face {
+  font-family: 'BunchloNuaGC';
+  src: url('../css/BunchloNuaGC.woff') format('woff');
+}
+
+span.seanchlo {
+  font-family: 'BunchloNuaGC';
+  font-size: 120%;
+}
