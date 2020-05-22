@@ -10,17 +10,17 @@ en	0	{REPOS}/gaelspell/cuidiu-en.html	gaelspell/cuidiu-en.html	GaelSpell: Contri
 ga	0	{REPOS}/gaelspell/sonrai.html	gaelspell/sonrai.html	GaelSpell: Stair	-
 en	0	{REPOS}/gaelspell/sonrai-en.html	gaelspell/sonrai-en.html	GaelSpell: History	-
 ga	1	{REPOS}/gramadoir/index.html	gramadoir/index.html	An Gramadóir: Baile	-
-en	1	{REPOS}/gramadoir/index.html	gramadoir/index-en.html	An Gramadóir: Home	-
+en	1	{REPOS}/gramadoir/index-en.html	gramadoir/index-en.html	An Gramadóir: Home	-
 ga	1	{REPOS}/gramadoir/foirm.html	gramadoir/foirm.html	An Gramadóir: Comhéadan	gramadoir/gramadoir.css
 en	1	{REPOS}/gramadoir/form.html	gramadoir/foirm-en.html	An Gramadóir: Web Interface	gramadoir/gramadoir.css
 ga	1	{REPOS}/gramadoir/sios.html	gramadoir/sios.html	An Gramadóir: Íoslódáil	-
-en	1	{REPOS}/gramadoir/sios.html	gramadoir/sios-en.html	An Gramadóir: Download	-
+en	1	{REPOS}/gramadoir/sios-en.html	gramadoir/sios-en.html	An Gramadóir: Download	-
 ga	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu.html	An Gramadóir: Rannpháirtíocht	-
-en	1	{REPOS}/gramadoir/cuidiu.html	gramadoir/cuidiu-en.html	An Gramadóir: Contributing	-
+en	1	{REPOS}/gramadoir/cuidiu-en.html	gramadoir/cuidiu-en.html	An Gramadóir: Contributing	-
 ga	1	{REPOS}/gramadoir/stair.html	gramadoir/stair.html	An Gramadóir: Stair	-
-en	1	{REPOS}/gramadoir/stair.html	gramadoir/stair-en.html	An Gramadóir: History	-
+en	1	{REPOS}/gramadoir/stair-en.html	gramadoir/stair-en.html	An Gramadóir: History	-
 ga	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla.html	An Gramadóir: Samplaí	gramadoir/gramadoir.css
-en	1	{REPOS}/gramadoir/sampla.html	gramadoir/sampla-en.html	An Gramadóir: Sampler	gramadoir/gramadoir.css
+en	1	{REPOS}/gramadoir/sampla-en.html	gramadoir/sampla-en.html	An Gramadóir: Sampler	gramadoir/gramadoir.css
 ga	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs.html	An Gramadóir: Fabhtanna	gramadoir/gramadoir.css
 en	1	{REPOS}/gramadoir/bugs.html	gramadoir/bugs-en.html	An Gramadóir: Bugs	gramadoir/gramadoir.css
 ga	2	{REPOS}/wordnet-gaeilge/index.html	lsg/index.html	LSG: Baile	-
