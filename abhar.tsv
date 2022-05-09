@@ -32,6 +32,8 @@ en	2	{REPOS}/wordnet-gaeilge/thanks-en.html	lsg/thanks-en.html	LSG: Thanks	-
 # 3 = Caighdeánaitheoir
 ga	4	{GAEILGE}/crubadan/twitter/intergaelic/gd2ga.html	gd2ga/index.html	Tweetanna i nGaeilge na hAlban	gd2ga/tweet.css
 en	4	{GAEILGE}/crubadan/twitter/intergaelic/gd2ga.html	gd2ga/index-en.html	Gàidhlig Twitter Stream	gd2ga/tweet.css
+ga	4	{GAEILGE}/ga2gd/omurchu/index.html	gd2ga/omurchu.html	Gaeilge-Gàidhlig	-
+en	4	{GAEILGE}/ga2gd/omurchu/index-en.html	gd2ga/omurchu-en.html	Gaeilge-Gàidhlig	-
 ga	5	{GAEILGE}/crubadan/twitter/intergaelic/gv2ga.html	gv2ga/index.html	Tweetanna i Manainnis	gv2ga/tweet.css
 en	5	{GAEILGE}/crubadan/twitter/intergaelic/gv2ga.html	gv2ga/index-en.html	Manx Twitter Stream	gv2ga/tweet.css
 ga	6	{GAEILGE}/treocht/index.html	treochtai/index.html	Treochtaí Gaeilge	treochtai/treochtai.css
